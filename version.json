@@ -1,0 +1,32 @@
+{
+  "version": "1.9.4",
+  "released": "2026-10-24",
+  "notes": {
+    "ar": "آزر الآن بهويته الجديدة AZR؛ اختيار عشوائي بالعدد وبحلقة متحركة على الطلاب (في الحاسوب والهاتف)؛ تكبير نافذة المجموعات؛ تحويل تأمل الخطة إلى المنهج؛ غرفة تدريب للضوضاء؛ تحسينات متنوعة",
+    "en": "Now AZR; random pick by count with a moving ring on students (PC and phone); maximize the groups window; plan reflection to curriculum; noise training room; many improvements"
+  },
+  "page": "https://github.com/aldumestani/azr/releases/tag/V1",
+  "installer": {
+    "url": "https://github.com/aldumestani/azr/releases/download/V1/Azr-Setup-1.9.4.exe",
+    "sha256": "827cc8e1c4de067a3af14453bcfdf47b8a6e9a1767299fc17d7c3e7608d6dcb0",
+    "size": 120602310
+  },
+  "announcements": [
+    {
+      "id": "welcome-2026",
+      "title": {
+        "ar": "أهلًا بك في آزر",
+        "en": "Welcome to Azr"
+      },
+      "text": {
+        "ar": "شكرًا لاستخدامك آزر. شاركنا ملاحظاتك عبر حساب المطوّر على إنستغرام.",
+        "en": "Thanks for using Azr. Send us your feedback on the developer's Instagram."
+      },
+      "link": "https://www.instagram.com/jehadmstani/",
+      "min": "1.0.0",
+      "max": "",
+      "expires": "2027-06-30"
+    }
+  ],
+  "sig": "ITnltY/oYEyd6p/fj7TEfoy0MM30+firYJhfzYKiN8amO/tEoVn/T/sNpYsELj8dUXXtFdS/B+uDrcXZq2MHAA=="
+}

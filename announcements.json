@@ -1,0 +1,11 @@
+[
+  {
+    "id": "welcome-2026",
+    "title": { "ar": "أهلًا بك في آزر", "en": "Welcome to Azr" },
+    "text":  { "ar": "شكرًا لاستخدامك آزر. شاركنا ملاحظاتك عبر حساب المطوّر على إنستغرام.", "en": "Thanks for using Azr. Send us your feedback on the developer's Instagram." },
+    "link": "https://www.instagram.com/jehadmstani/",
+    "min": "1.0.0",
+    "max": "",
+    "expires": "2027-06-30"
+  }
+]
